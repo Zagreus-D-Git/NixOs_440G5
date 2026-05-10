@@ -5,6 +5,8 @@
   networking.hostName = "probook440g5";
   networking.networkmanager.enable = true;
 
+
+
   # --- Audio: PipeWire ---
   services.pulseaudio.enable = false; # must be false when using pipewire
   security.rtkit.enable = true;       # realtime scheduling for pipewire
