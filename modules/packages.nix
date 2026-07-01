@@ -29,6 +29,18 @@
     # --- Apps ---
     brave
     spotify
+    
+    # --- Opencode ---
+    ripgrep
+    fd
+    jq
+    tree
+    nixfmt-rfc-style
+    statix
+    deadnix
+    #alejandra
+    nil
+    
   ];
 
   # --- Programs with special NixOS integration ---
