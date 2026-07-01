@@ -24,7 +24,7 @@
         ./modules/services.nix
         ./modules/packages.nix
         ./modules/users.nix
-        ./modules/localmodels.nix
+        ./modules/localmodel.nix
       ];
     };
   };
